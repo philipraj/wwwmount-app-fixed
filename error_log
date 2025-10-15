@@ -1,0 +1,53 @@
+[12-Aug-2025 13:02:07 UTC] Session user_id: 1
+[12-Aug-2025 13:02:07 UTC] Permission check: true
+[12-Aug-2025 13:02:07 UTC] POST data: Array
+(
+    [job_id] => 27
+    [candidate_name] => Name: MD ABDUL HAMED
+    [email] => mahamed314@gmail.com
+    [phone] => 7569510511
+    [current_location] => Hyderabad
+    [current_ctc] => ₹ 7 Lacs
+    [expected_ctc] => 8
+    [notice_period] => Immediate
+    [add_candidate] => 
+)
+
+[12-Aug-2025 13:02:07 UTC] FILES data: Array
+(
+    [resume] => Array
+        (
+            [name] => MDABDULHAMED.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => /tmp/phpZSWcIq
+            [error] => 0
+            [size] => 26902
+        )
+
+)
+
+[10-Sep-2025 09:43:45 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:45 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:47 UTC] Permission error: Resource 'job_orders' not found for user ID: 5
+[10-Sep-2025 09:43:47 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:47 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:52 UTC] Permission error: Resource 'job_orders' not found for user ID: 5
+[10-Sep-2025 09:43:52 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:52 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'job_orders' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'candidates' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:53 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'clients' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'contacts' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'attendance' not found for user ID: 5
+[10-Sep-2025 09:43:54 UTC] Permission error: Resource 'permissions' not found for user ID: 5
+[29-Sep-2025 16:06:30 UTC] Database error in pipeline_tracking.php: Prepare failed: Unknown column 'cl.contact_person' in 'SELECT'

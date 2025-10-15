@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ezyang/htmlpurifier": "^4.18",
+        "smalot/pdfparser": "^2.12"
+    }
+}
